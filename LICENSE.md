@@ -8,7 +8,7 @@ All other contributions:
 Copyright (c) 2015,  the respective contributors
 All rights reserved.
 
-LICENSE
+LICENSE (except for VST SDK sources which are under the Steinberg's license)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met: 
